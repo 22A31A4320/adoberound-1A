@@ -1,0 +1,350 @@
+{
+  "title": "PRAGATI ENGINEERING COLLEGE",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "(Autonomous)",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Computer Science and Engineering (Artificial Intelligence)",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "DESIGN AND ANALYSIS OF ALGORITHMS",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "ASSIGNMENT 1",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "SET A",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "1. What is performance measurement of algorithm?",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "2. Write different pseudo code conventions used to represent an algorithm?",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "3. What is space complexity? Illustrate an example for fixed and variable part in space",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "complexity?",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "SET B",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "1. How do you measure time complexity of an algorithm?",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "2. What is Asymptotic notation? Explain different types of asymptotic notations with",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "examples?",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "3. What is performance analysis? Give an algorithm for matrix multiplication and find the",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "time complexity using step-count method?",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "SET C",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "1. Using step count method analyze time complexity of procedure to add two m*n matrices?",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "2. Explain randomized algorithm concept with an example?",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "3. Derive the Runtime complexity of non-recursive Fibonacci series algorithm using tabular",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "method?",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "ASSIGNMENT 2",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "1. Discuss about fractional knapsack problem. Consider the following instances of knapsack problem",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "where n=3, m=20, and profits (p1, p2, p3) = (25, 24, 15) and weights (w1, w2, w3) = (18, 15, 10).",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Obtain the optimal solution using greedy approach.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "2. Write divide and conquer recursive quick sort algorithm, and derive the time complexity of the",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "algorithm?",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "3. Explain the general principle of Greedy Method and list the applications of Greedy Method.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "1. Discuss working strategy of merge sort and illustrate the process of merge sort algorithm for the",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "given data 43,32,22,78,63,57,91,13",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "2. What is the role of \u2018min\u2019 cost edge in the graph to find minimum cost spanning tree using Kruskals",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "algorithm? Give the implementation.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "3. Explain recursive binary search with suitable example?",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "1. Write general method of divide and conquer method, and list the different applications?",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "2. Explain differences between Prim\u2019s and Kruskal\u2019s Minimum spanning Tree algorithm. Derive the",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "time complexity of Kruskal\u2019s algorithm.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "3. Explain Single Source Shortest Path Algorithm with an example?",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "ASSIGNMENT 3",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "1. Describe the Dynamic 0/1 Knapsack Problem. Find an optimal solution for the dynamic",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "programming 0/1 knapsack instance for n=3, m=6, profits are (p1, p2, p3 ) = (1,2,5), weights are",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "(w1,w2,w3)=(2,3,4).",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2. Construct the binary tree given the following traversals with detailed steps : Inorder: G D H B A E I",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "C F Pre order : A B D G H C E I F",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "1. Write the algorithm to compute 0/1 Knapsack problem using dynamic programming and explain it.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "1. Explain the concept of Traveling sales force problem with an example?",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2. Write the algorithm to compute 0/1 Knapsack problem using dynamic programming and explain it.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "ASSIGNMENT 4",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "1. Solve the following Sum of Subsets problem. Let w = {5,7,10,12,15,18,20} and m= 35. Find",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "all possible subsets of w that sum to m.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "2.Write the algorithm to solve N \u2013 Queens problem. Trace out the algorithm for 4- queens",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "problem. Mention any two solutions.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "3. Explain the Graph \u2013 coloring problem. And draw the state space tree for m= 3",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "1. What is Graph Coloring. Explain with an example.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2. What is a Hamiltonian Cycle? Explain how to find Hamiltonian path and cycle using",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "backtracking algorithm.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "3. Consider the following instances of knapsack problem where n=4, m=8kg, and profits (p1, p2,",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "p3,p4) = (3,5,6,10) and weights (w1, w2, w3,w4) = (2,3,4,5). Using back tracking draw the state",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "space tree.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "1. Explain in detail about 8 \u2013 queens problem using Back tracking with example.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2. Define state space tree. Draw the state space tree for m \u2013 coloring graph.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "3. Give the statement of sum \u2013of subsets problem. Find all sum of subsets for n=4, (w1, w2, w3, w4)",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "= (11, 13, 24, 7) and M=31.Draw the portion of the state space tree using fixed \u2013 tuple sized",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "approach.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "ASSIGNMENT 5",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "1. Explain in detail about Branch and Bound with a general method algorithm.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2. Give a brief explanation about NP \u2013 Hard Algorithms with an example.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "1. Explain about various non \u2013 deterministic algorithms with examples.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2. Explain with an example about Fractional Knap Sack Problem in Class NP. Give an algorithm.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "4. Explain about Cook\u2019s theorem. ?",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "5. Explain with an example about Fractional Knap Sack problem in Class P. Give an algorithm.",
+      "page": 5
+    }
+  ]
+}
