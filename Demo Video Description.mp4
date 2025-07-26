@@ -1,0 +1,44 @@
+🎥 Demo Video Description: Adobe Hackathon Round 1A
+This screen recording demonstrates the functionality of my solution for Round 1A of the Adobe "Connecting the Dots" Hackathon. The app is built using Streamlit and performs intelligent document analysis on PDF files.
+
+📌 Key Highlights in the Video:
+PDF Upload Interface
+
+The user uploads a .pdf document through the Streamlit UI.
+
+The PDF is parsed and processed entirely on-device (offline compatible).
+
+Challenge 1A Selected
+
+The user selects “Challenge 1A: PDF Title & Heading Extraction.”
+
+The app extracts the document title and all section headings.
+
+Real-Time Output Display
+
+The extracted outline (title + H1, H2, H3 headings) is displayed as a table.
+
+The data is shown along with page numbers and heading levels.
+
+JSON Preview & Download
+
+The app generates a JSON output conforming to Adobe’s required format.
+
+The JSON can be downloaded directly from the UI.
+
+Performance
+
+The extraction completes within seconds, complying with the 10-second execution limit.
+
+No external API calls are made, ensuring offline compatibility.
+
+💡 Technologies Used
+pdfminer.six for layout-based PDF parsing
+
+Streamlit for UI
+
+Heuristics for heading level detection (font size, boldness, structure)
+
+📁 File Details
+Filename: demo_adobe_round1A.mp4
+Purpose: To visually demonstrate the document outline extraction process for Round 1A.
